@@ -4,9 +4,13 @@ body {
 }
 .foto {
   background-color: #ffb6b9;
+  border-radius: 100%;
 }
 h1{
   color: #8ac6d1;
+}
+h1:hover{
+  color: #8ac6ff;
 }
 h3{
    color: #8ac6d1;
